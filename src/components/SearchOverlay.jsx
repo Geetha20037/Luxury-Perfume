@@ -67,7 +67,7 @@ function SearchOverlay({
             {/* Header */}
             <div className=" flex  items-center justify-between">
               <div className="font-display text-2xl tracking-[0.16em]">
-                AURELLE
+                SOLVÉRA
               </div>
 
               <button
@@ -83,7 +83,7 @@ function SearchOverlay({
             {/* Search Area */}
             <div className=" mt-16 ">
               <p className="mb-4 text-[10px] font-semibold uppercase tracking-[0.25em] text-[#c19a63]">
-                Search AURELLE
+                Search SOLVÉRA
               </p>
 
               <div className="flex items-center gap-4 border-b border-black/20 pb-4">
@@ -185,6 +185,7 @@ function SearchOverlay({
 }
 
 export default SearchOverlay;
+
 
 
 

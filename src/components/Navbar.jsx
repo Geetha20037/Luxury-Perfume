@@ -37,7 +37,7 @@ function Navbar({
           onClick={handleNavigation}
           className="font-display text-2xl tracking-[0.16em] text-[#171411]"
         >
-          AURELLE
+          SOLVÉRA
         </a>
 
         {/* Desktop Navigation */}
@@ -133,6 +133,7 @@ function Navbar({
 }
 
 export default Navbar;
+
 
 
 

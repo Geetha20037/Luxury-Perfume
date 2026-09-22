@@ -33,7 +33,7 @@ function Checkout({ cart, onBack, onOrderComplete }) {
 
             <p className="mx-auto mt-5 max-w-md text-sm leading-6 text-[#756b61]">
               Your fragrance selection has been confirmed. We look forward to
-              bringing your AURELLE experience to you.
+              bringing your SOLVÉRA experience to you.
             </p>
 
             <button
@@ -62,7 +62,7 @@ function Checkout({ cart, onBack, onOrderComplete }) {
         <div className="mt-12 grid gap-12 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
             <p className="text-[10px] uppercase tracking-[0.3em] text-[#a8844f]">
-              AURELLE Checkout
+              SOLVÉRA Checkout
             </p>
 
             <h1 className="mt-3 font-display text-5xl">
@@ -178,5 +178,6 @@ function Checkout({ cart, onBack, onOrderComplete }) {
 }
 
 export default Checkout;
+
 
 

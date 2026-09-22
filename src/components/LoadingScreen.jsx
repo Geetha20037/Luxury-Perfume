@@ -92,7 +92,7 @@ function LoadingScreen({ onComplete }) {
           }}
           className="font-display text-4xl sm:text-5xl"
         >
-          AURELLE
+          SOLVÉRA
         </motion.div>
 
         {/* Gold Line */}
@@ -152,7 +152,7 @@ function LoadingScreen({ onComplete }) {
             {/* Bottle Label */}
             <div className="absolute left-1/2 top-1/2 z-10 w-[70px] -translate-x-1/2 -translate-y-1/2 border border-[#c9a36a]/40 bg-[#0b0a09]/70 px-2 py-3 text-center backdrop-blur-sm">
               <p className="text-[7px] tracking-[0.3em] text-[#c9a36a]">
-                AURELLE
+                SOLVÉRA
               </p>
               <p className="mt-1 text-[5px] uppercase tracking-[0.2em] text-white/50">
                 Parfum
@@ -212,7 +212,7 @@ function LoadingScreen({ onComplete }) {
         transition={{ delay: 1.5 }}
         className="absolute bottom-8 text-[8px] uppercase tracking-[0.35em] text-white/20"
       >
-        Maison AURELLE · Paris
+        Maison SOLVÉRA · Paris
       </motion.p>
     </motion.div>
   );

@@ -25,20 +25,20 @@ function Footer() {
   const careContent = {
     "Shipping & Returns": {
       title: "Shipping & Returns",
-      text: "We carefully prepare every AURELLE order. Orders are processed within 1–2 business days and delivered with premium protective packaging. If your fragrance arrives damaged, please contact our Client Care team within 48 hours.",
+      text: "We carefully prepare every SOLVÉRA order. Orders are processed within 1–2 business days and delivered with premium protective packaging. If your fragrance arrives damaged, please contact our Client Care team within 48 hours.",
     },
     "Contact Us": {
       title: "Contact Us",
       text: "Our Client Care team is here to assist you with orders, fragrance recommendations and product questions.",
-      extra: "hello@aurelleparfums.com  •  +1 800 234 5678",
+      extra: "hello@solveraparfums.com  •  +1 800 234 5678",
     },
     FAQ: {
       title: "Frequently Asked Questions",
-      text: "How long does delivery take? Standard delivery usually takes 3–7 business days. Can I change my order? Contact us as soon as possible after placing your order. Are fragrances authentic? Every AURELLE fragrance is presented as part of our official collection.",
+      text: "How long does delivery take? Standard delivery usually takes 3–7 business days. Can I change my order? Contact us as soon as possible after placing your order. Are fragrances authentic? Every SOLVÉRA fragrance is presented as part of our official collection.",
     },
     Privacy: {
       title: "Privacy",
-      text: "Your privacy matters to AURELLE. Information submitted through this website is used only to process orders, provide customer support and improve your shopping experience. We do not sell your personal information.",
+      text: "Your privacy matters to SOLVÉRA. Information submitted through this website is used only to process orders, provide customer support and improve your shopping experience. We do not sell your personal information.",
     },
   };
 
@@ -51,7 +51,7 @@ function Footer() {
             {/* Brand */}
             <div>
               <div className="font-display text-4xl tracking-[0.12em]">
-                AURELLE
+                SOLVÉRA
               </div>
 
               <p className="mt-5 max-w-[330px] text-sm leading-7 text-white/45">
@@ -120,7 +120,7 @@ function Footer() {
               </h3>
 
               <div className="mt-5 space-y-3 text-sm leading-6 text-white/55">
-                <p>hello@aurelleparfums.com</p>
+                <p>hello@solveraparfums.com</p>
                 <p>+1 800 234 5678</p>
                 <p>12 Maison Avenue, Paris</p>
               </div>
@@ -129,7 +129,7 @@ function Footer() {
 
           {/* Bottom */}
           <div className="mt-14 flex flex-col justify-between gap-5 border-t border-white/10 pt-7 text-[9px] uppercase tracking-[0.15em] text-white/35 sm:flex-row sm:items-center">
-            <p>© 2026 AURELLE PARFUMS. ALL RIGHTS RESERVED.</p>
+            <p>© 2026 SOLVÉRA PARFUMS. ALL RIGHTS RESERVED.</p>
 
             <button
               type="button"
@@ -163,7 +163,7 @@ function Footer() {
             </button>
 
             <p className="text-[10px] font-semibold uppercase tracking-[0.25em] text-[#c19a63]">
-              AURELLE Client Care
+              SOLVÉRA Client Care
             </p>
 
             <h2 className="mt-3 pr-10 font-display text-4xl">
@@ -195,5 +195,6 @@ function Footer() {
 }
 
 export default Footer;
+
 
 

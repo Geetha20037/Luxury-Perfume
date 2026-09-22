@@ -82,7 +82,7 @@ function Hero() {
       <div className="absolute bottom-8 left-0 right-0">
         <div className="container-main flex items-center justify-between">
           <span className="text-[9px] uppercase tracking-[0.35em] text-white/40">
-            AURELLE / 2026
+            SOLVÉRA / 2026
           </span>
 
           <motion.div
@@ -99,6 +99,7 @@ function Hero() {
 }
 
 export default Hero;
+
 
 
 

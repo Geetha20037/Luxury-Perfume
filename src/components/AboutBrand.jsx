@@ -14,7 +14,7 @@ function AboutBrand() {
 
           <img
             src="/products/perfume-3.jpg"
-            alt="AURELLE perfume"
+            alt="SOLVÉRA perfume"
             className="aspect-[4/5] w-full object-cover"
           />
 
@@ -46,7 +46,7 @@ function AboutBrand() {
 
           <div className="mt-8 space-y-5 text-sm leading-7 text-[#6f665d]">
             <p>
-              AURELLE was born from a fascination with the invisible language
+              SOLVÉRA was born from a fascination with the invisible language
               of scent. We believe a fragrance should do more than smell
               beautiful â€” it should become part of your story.
             </p>
@@ -87,6 +87,7 @@ function AboutBrand() {
 }
 
 export default AboutBrand;
+
 
 
 

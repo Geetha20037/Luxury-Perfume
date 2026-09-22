@@ -19,7 +19,7 @@ const testimonials = [
     name: "Sofia Laurent",
     role: "Verified Customer",
     image: "/products/perfume-5.jpg",
-    text: "The whole AURELLE experience feels luxurious from the packaging to the fragrance itself.",
+    text: "The whole SOLVÉRA experience feels luxurious from the packaging to the fragrance itself.",
   },
 ];
 
@@ -107,6 +107,7 @@ function Testimonials() {
 }
 
 export default Testimonials;
+
 
 
 

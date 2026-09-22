@@ -30,7 +30,7 @@ function SpecialOffer() {
           </h2>
 
           <p className="mt-6 max-w-[470px] text-sm leading-7 text-white/55">
-            Receive 20% off your first AURELLE fragrance and discover a scent
+            Receive 20% off your first SOLVÉRA fragrance and discover a scent
             created to become uniquely yours.
           </p>
 
@@ -48,6 +48,7 @@ function SpecialOffer() {
 }
 
 export default SpecialOffer;
+
 
 
 

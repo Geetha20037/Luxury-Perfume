@@ -1,7 +1,7 @@
 ﻿export const products = [
   {
     id: 1,
-    name: "AURELLE Noir",
+    name: "SOLVÉRA Noir",
     type: "Woody • Spicy",
     price: 2999,
     oldPrice: 3499,
@@ -163,4 +163,5 @@ export const collections = [
     image: "/products/perfume-8.jpg",
   },
 ];
+
 
